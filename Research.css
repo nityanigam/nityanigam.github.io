@@ -43,6 +43,7 @@
 .u-section-2 .u-image-1 {
   min-height: 542px;
   background-image: url("images/magnetar.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-2 .u-container-layout-1 {
@@ -84,7 +85,6 @@
   }
 
   .u-section-2 .u-image-1 {
-    background-position: 50% 50%;
     min-height: 447px;
     z-index: 0;
   }
