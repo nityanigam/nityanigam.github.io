@@ -74,6 +74,11 @@
   margin: 23px 31px 0 17px;
 }
 
+.u-section-2 .u-btn-1 {
+  text-decoration: underline !important;
+  padding: 0;
+}
+
 @media (max-width: 1199px) {
   .u-section-2 .u-sheet-1 {
     min-height: 619px;
